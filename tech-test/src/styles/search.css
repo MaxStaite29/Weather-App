@@ -1,0 +1,21 @@
+.search-input {
+    margin-right: 2px;
+    margin-bottom: 15px;
+    width: 20%;
+    height: 50px;
+    border-radius: 11px;
+    font-size: 20px;
+    padding: 0 10px;
+
+  }
+
+  .search-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .search-btn {
+    margin-bottom: 15px;
+  }

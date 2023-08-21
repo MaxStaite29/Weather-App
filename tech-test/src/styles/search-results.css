@@ -1,0 +1,23 @@
+.title {
+    display:flex;
+    margin: 10px;
+    
+    height: 15px;
+    border-radius: 11px;
+    font-size: 20px;
+    padding: 0 5px;
+    justify-content: center;
+  }
+
+.card-image {
+    width: 20%;
+    height: 200px;
+    
+}
+
+.card-images {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: stretch;
+}
